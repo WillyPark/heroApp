@@ -6,8 +6,8 @@ export const HeroCard = ({ id, superhero, publisher, alter_ego, first_appearance
     return (
         <Link to={`./hero/${id}`} className="my-card">
             <img 
-                // src={ `./docs/assets/heroes/${ id }.jpg` } //build de produccion
-                src={ `./assets/heroes/${ id }.jpg` } 
+                src={ `./docs/assets/heroes/${ id }.jpg` } //build de produccion
+                // src={ `./assets/heroes/${ id }.jpg` } 
                 // src={ heroImages(`./${ id }.jpg`).default }
                 className="img img-responsive" 
                 alt={ superhero } 

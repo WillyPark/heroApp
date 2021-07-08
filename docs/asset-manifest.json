@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/heroApp/static/css/main.dad537fc.chunk.css",
-    "main.js": "/heroApp/static/js/main.02610229.chunk.js",
-    "main.js.map": "/heroApp/static/js/main.02610229.chunk.js.map",
+    "main.js": "/heroApp/static/js/main.9df6e3ef.chunk.js",
+    "main.js.map": "/heroApp/static/js/main.9df6e3ef.chunk.js.map",
     "runtime-main.js": "/heroApp/static/js/runtime-main.843ffca4.js",
     "runtime-main.js.map": "/heroApp/static/js/runtime-main.843ffca4.js.map",
     "static/js/2.de0ce2e6.chunk.js": "/heroApp/static/js/2.de0ce2e6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.843ffca4.js",
     "static/js/2.de0ce2e6.chunk.js",
     "static/css/main.dad537fc.chunk.css",
-    "static/js/main.02610229.chunk.js"
+    "static/js/main.9df6e3ef.chunk.js"
   ]
 }

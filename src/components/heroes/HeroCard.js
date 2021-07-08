@@ -1,12 +1,8 @@
-import { Link, useHistory } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 // import { heroImages } from '../../helpers/heroImages';
 import "./heroCard.css";
 
 export const HeroCard = ({ id, superhero, publisher, alter_ego, first_appearance, characters }) => {
-
-    const history = useHistory();
-    console.log("desde el HeroCard: " + history.location.pathname);
-
     return (
         <Link to={`./hero/${id}`} className="my-card">
             <img 

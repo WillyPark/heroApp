@@ -25,14 +25,12 @@ export const HeroScreen = ({ history }) => {
 
     const { superhero, publisher, alter_ego, first_appearance, characters } = hero;
 
-    console.log(history.location.pathname);
-
     return (
         <div className="row">
             <div className="col-4">
                 <img 
                     // src={`../assets/heroes/${ heroeId }.jpg`} //desde public/assets
-                    src={`../../assets/heroes/${ heroeId }.jpg`} //build a produccion
+                    src={`../../../assets/heroes/${ heroeId }.jpg`} //build a produccion
                     // src={ batman } //cuando tenemos un import
                     // src={ heroImages(`./${ heroeId }.jpg`).default }
                     className="img-thumbnail animate__animated animate__fadeInLeft" 

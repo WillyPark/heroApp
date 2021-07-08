@@ -1,40 +1,20 @@
 {
   "files": {
     "main.css": "/heroApp/static/css/main.dad537fc.chunk.css",
-    "main.js": "/heroApp/static/js/main.c770cf41.chunk.js",
-    "main.js.map": "/heroApp/static/js/main.c770cf41.chunk.js.map",
+    "main.js": "/heroApp/static/js/main.2a69ee87.chunk.js",
+    "main.js.map": "/heroApp/static/js/main.2a69ee87.chunk.js.map",
     "runtime-main.js": "/heroApp/static/js/runtime-main.843ffca4.js",
     "runtime-main.js.map": "/heroApp/static/js/runtime-main.843ffca4.js.map",
-    "static/js/2.81c15ead.chunk.js": "/heroApp/static/js/2.81c15ead.chunk.js",
-    "static/js/2.81c15ead.chunk.js.map": "/heroApp/static/js/2.81c15ead.chunk.js.map",
+    "static/js/2.de0ce2e6.chunk.js": "/heroApp/static/js/2.de0ce2e6.chunk.js",
+    "static/js/2.de0ce2e6.chunk.js.map": "/heroApp/static/js/2.de0ce2e6.chunk.js.map",
     "index.html": "/heroApp/index.html",
     "static/css/main.dad537fc.chunk.css.map": "/heroApp/static/css/main.dad537fc.chunk.css.map",
-    "static/js/2.81c15ead.chunk.js.LICENSE.txt": "/heroApp/static/js/2.81c15ead.chunk.js.LICENSE.txt",
-    "static/media/dc-arrow.jpg": "/heroApp/static/media/dc-arrow.15b27bc2.jpg",
-    "static/media/dc-batman.jpg": "/heroApp/static/media/dc-batman.ab9eadc3.jpg",
-    "static/media/dc-black.jpg": "/heroApp/static/media/dc-black.3747c663.jpg",
-    "static/media/dc-blue.jpg": "/heroApp/static/media/dc-blue.cc8169a3.jpg",
-    "static/media/dc-flash.jpg": "/heroApp/static/media/dc-flash.b3922f25.jpg",
-    "static/media/dc-green.jpg": "/heroApp/static/media/dc-green.01c54ee1.jpg",
-    "static/media/dc-martian.jpg": "/heroApp/static/media/dc-martian.78565f7d.jpg",
-    "static/media/dc-robin.jpg": "/heroApp/static/media/dc-robin.ea4afe99.jpg",
-    "static/media/dc-superman.jpg": "/heroApp/static/media/dc-superman.e9391474.jpg",
-    "static/media/dc-wonder.jpg": "/heroApp/static/media/dc-wonder.970ba2d6.jpg",
-    "static/media/marvel-captain.jpg": "/heroApp/static/media/marvel-captain.d2c7774d.jpg",
-    "static/media/marvel-cyclops.jpg": "/heroApp/static/media/marvel-cyclops.f1442408.jpg",
-    "static/media/marvel-daredevil.jpg": "/heroApp/static/media/marvel-daredevil.2f4f1a57.jpg",
-    "static/media/marvel-hawkeye.jpg": "/heroApp/static/media/marvel-hawkeye.1f78e874.jpg",
-    "static/media/marvel-hulk.jpg": "/heroApp/static/media/marvel-hulk.d1af5fe5.jpg",
-    "static/media/marvel-iron.jpg": "/heroApp/static/media/marvel-iron.b394df11.jpg",
-    "static/media/marvel-silver.jpg": "/heroApp/static/media/marvel-silver.1d43a08b.jpg",
-    "static/media/marvel-spider.jpg": "/heroApp/static/media/marvel-spider.054016b4.jpg",
-    "static/media/marvel-thor.jpg": "/heroApp/static/media/marvel-thor.c63e651c.jpg",
-    "static/media/marvel-wolverine.jpg": "/heroApp/static/media/marvel-wolverine.ee676488.jpg"
+    "static/js/2.de0ce2e6.chunk.js.LICENSE.txt": "/heroApp/static/js/2.de0ce2e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.843ffca4.js",
-    "static/js/2.81c15ead.chunk.js",
+    "static/js/2.de0ce2e6.chunk.js",
     "static/css/main.dad537fc.chunk.css",
-    "static/js/main.c770cf41.chunk.js"
+    "static/js/main.2a69ee87.chunk.js"
   ]
 }

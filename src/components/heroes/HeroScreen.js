@@ -3,7 +3,7 @@ import { Redirect, useParams } from "react-router-dom";
 import { getHeroById } from "../../selectors/getHeroById";
 
 // import batman from "../../assets/heroes/dc-batman.jpg"; //recurso estático
-import { heroImages } from "../../helpers/heroImages";
+// import { heroImages } from "../../helpers/heroImages";
 
 export const HeroScreen = ({ history }) => {
 
@@ -29,10 +29,10 @@ export const HeroScreen = ({ history }) => {
         <div className="row">
             <div className="col-4">
                 <img 
-                    // src={`../assets/heroes/${ heroeId }.jpg`} //desde public/assets
+                    src={`../assets/heroes/${ heroeId }.jpg`} //desde public/assets
                     // src={`./docs/assets/heroes/${ heroeId }.jpg`} //build a produccion
                     // src={ batman } //cuando tenemos un import
-                    src={ heroImages(`./${ heroeId }.jpg`).default }
+                    // src={ heroImages(`./${ heroeId }.jpg`).default }
                     className="img-thumbnail animate__animated animate__fadeInLeft" 
                     alt={ superhero } />
             </div>

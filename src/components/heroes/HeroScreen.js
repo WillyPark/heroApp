@@ -30,7 +30,7 @@ export const HeroScreen = ({ history }) => {
             <div className="col-4">
                 <img 
                     // src={`../assets/heroes/${ heroeId }.jpg`} //desde public/assets
-                    src={`/heroApp/docs/assets/heroes/${ heroeId }.jpg`} //build a produccion
+                    src={`./heroApp/docs/assets/heroes/${ heroeId }.jpg`} //build a produccion
                     // src={ batman } //cuando tenemos un import
                     // src={ heroImages(`./${ heroeId }.jpg`).default }
                     className="img-thumbnail animate__animated animate__fadeInLeft" 

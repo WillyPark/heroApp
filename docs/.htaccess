@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
 	RewriteEngine On
 	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteRule ^(.*)$ /heroApp/docs/index.html/$1 [QSA,L]
+	RewriteRule ^(.*)$ /heroApp/index.html/$1 [QSA,L]
 </IfModule>
